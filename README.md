@@ -1,4 +1,4 @@
-# Retirieveing Data from Census API
+# Retirieving Data from Census API
 
 We will be using census question groups to retrieve information on a specific topic on block group level from the American Community Survey 5-Year Estimates.
 
